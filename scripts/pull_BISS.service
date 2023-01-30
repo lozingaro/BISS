@@ -1,5 +1,5 @@
 [Unit]
-Description="Pull BISS2022 from Git"
+Description="Pull BISS from Git"
 
 [Service]
 ExecStart=/usr/bin/bash /home/projects/BISS/pull_BISS.sh
