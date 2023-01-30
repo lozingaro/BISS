@@ -1,9 +1,0 @@
-[Unit]
-Description="Pull BISS from Git"
-
-[Service]
-ExecStart=/usr/bin/bash /home/projects/BISS/pull_BISS.sh
-WorkingDirectory=/home/projects/BISS
-
-[Install]
-WantedBy=multi-user.target
