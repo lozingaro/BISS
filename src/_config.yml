@@ -30,7 +30,7 @@ url: "https://tempesta.cs.unibo.it" # the base hostname & protocol for your site
 theme: minima
 plugins:
   - jekyll-feed
-destination: "../2023/public_html"
+destination: "../public_html/2023"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
