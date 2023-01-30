@@ -16,6 +16,6 @@ git ls-remote "$repository" "refs/heads/*" | while read sha ref; do
     cd "$root"
     fi
     chmod -R 775 "$target"
-    chgrp -R biss "$target"
+    # chgrp -R biss "$target"
   fi
 done
