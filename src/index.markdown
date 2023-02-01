@@ -5,6 +5,8 @@
 layout: page
 ---
 
+[![A view from Bertinoro](assets/img/slider1.png)](#)
+
 [Italian Computer Science PhD granting institutions](http://www.disi.unige.it/dottorato/coordinamento/) under the auspices of [GRIN](http://www.grin-informatica.it/), organizes an annual school offering three graduate-level courses aimed at PhD students in Computer Science.
 In addition to introducing students to timely research topics, the school is meant to promote acquaintance and collaboration among young European researchers.
 The school is open to PhD students from all European countries, and to students from other countries who are enrolled in a PhD program in Computer Science.
