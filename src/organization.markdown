@@ -12,10 +12,10 @@ permalink: /organization/
 
 ## Local organization committee
 
-- [Andrea Bandini](#) - Centro Residenziale Universitario
+- Andrea Bandini - Centro Residenziale Universitario
 di Bertinoro (CeUB)
-- [Monica Michelacci](mmichelacci@ceub.it) - Centro Residenziale Universitario
+- [Monica Michelacci](mailto:mmichelacci@ceub.it) - Centro Residenziale Universitario
 di Bertinoro (CeUB)
-- [Saverio Giallorenzo](saverio.giallorenzo2@unibo.it) - University of Bologna
-- [Stefano P. Zingaro](stefanopio.zingaro@unibo.it) - University of Bologna
+- [Saverio Giallorenzo](mailto:saverio.giallorenzo2@unibo.it) - University of Bologna
+- [Stefano P. Zingaro](mailto:stefanopio.zingaro@unibo.it) - University of Bologna
   

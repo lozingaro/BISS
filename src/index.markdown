@@ -13,8 +13,8 @@ The school is open to PhD students from all European countries, and to students 
 The {{ site.year }} edition of the School is the {{ site.edition}}th in the series.
 
 The school offers three courses yet to be announced.
-More information in the [courses](/courses) page.
+More information in the [courses](courses) page.
 
 The evaluation for each course is possible through a **final exam or project** as determined by the instructor.
 The daily schedule admits laboratory and/or working group activities to be organized in addition to the lectures.
-Consult the [schedule](/schedule) page for more information about the daily schedule.
+Consult the [schedule](schedule) page for more information about the daily schedule.
