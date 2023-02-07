@@ -6,7 +6,7 @@ permalink: /courses/
 
 ## Hybrid Quantum Computing
 
-[Professor Luis Regino Murillo Zamorano](people/murillo.html), Universidad de Extremadura (Spain)
+[Professor Luis Regino Murillo Zamorano](people/murillo/), Universidad de Extremadura (Spain)
 
 ### A gentle introduction to Quantum Computing from a Software Engineering perspective
 

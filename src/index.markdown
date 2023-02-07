@@ -16,7 +16,7 @@ The {{ site.year }} edition of the School is the {{ site.edition}}th in the seri
 
 The school offers three courses:
 
-* [Hybrid Quantum Computing](courses#hybrid-quantum-computing) by [Professor Murillo](people/murillo.html) of the Universidad de Extremadura (Spain)
+* [Hybrid Quantum Computing](courses#hybrid-quantum-computing) by [Professor Murillo](people/murillo/) of the Universidad de Extremadura (Spain)
 * TBA
 * TBA
 

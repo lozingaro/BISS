@@ -4,7 +4,7 @@ title: Schedule
 permalink: /schedule/
 ---
 
-* [Hybrid Quantum Computing](courses#hybrid-quantum-computing) ([Murillo](people/murillo.html))
+* [Hybrid Quantum Computing](courses#hybrid-quantum-computing) ([Murillo](people/murillo/))
 * TBA
 * TBA
 

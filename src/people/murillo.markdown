@@ -1,10 +1,9 @@
 ---
 layout: page
-title: People | Luis Regino Murillo Zamorano
-permalink: /people/murillo.html
+permalink: /people/murillo/
 ---
 
-## Short Bio
+# Professor Luis Regino Murillo Zamorano
 
 Professor Murillo is currently a Full Professor in the field of Software Engineering at the University of Extremadura (Spain). He develops his research activity within the Quercus Software Engineering Group which he contributed to create in 1995. Currently, he leads the SPILab (Social and Pervasive Innovation Lab) which is focused on the development of service technology for mobile devices.
 
