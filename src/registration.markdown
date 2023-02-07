@@ -4,4 +4,4 @@ title: Registration
 permalink: /registration/
 ---
 
-TBA
+Information will be available soon.

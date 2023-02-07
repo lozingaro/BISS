@@ -5,23 +5,34 @@
 layout: page
 ---
 
-# About the school
+# {{ site.year }} Bertinoro International Spring School
 
-![A view from Bertinoro](assets/img/slider1.png)
+![A view from Bertinoro hilltop](assets/img/slider1.png)
 
-[Italian Computer Science PhD granting institutions](http://www.disi.unige.it/dottorato/coordinamento/) under the auspices of [GRIN](http://www.grin-informatica.it/), organizes an annual school offering three graduate-level courses aimed at PhD students in Computer Science.
-In addition to introducing students to timely research topics, the school is meant to promote acquaintance and collaboration among young European researchers.
-The school is open to PhD students from all European countries, and to students from other countries who are enrolled in a PhD program in Computer Science.
-The {{ site.year }} edition of the School is the {{ site.edition}}th in the series.
+## What is the Bertinoro International Spring School?
 
-The school offers three courses:
+The [Italian Computer Science PhD granting institutions](http://www.disi.unige.it/dottorato/coordinamento/) under the auspices of [GRIN](http://www.grin-informatica.it/), organizes an annual school offering graduate-level courses aimed at PhD students in Computer Science.
+In addition to introducing students to timely research topics, the school is meant _to promote acquaintance and collaboration among young European researchers_.
 
-* [Hybrid Quantum Computing](courses#hybrid-quantum-computing) by [Professor Murillo](people/murillo/) of the Universidad de Extremadura (Spain)
-* TBA
-* TBA
+The three [courses](courses) that will be offered this year are:
 
-More information in the [courses](courses) page.
+* [Hybrid Quantum Computing - A gentle introduction to Quantum Computing from a Software Engineering perspective](/courses#hybrid-quantum-computing) by [Juan Manuel Murillo](/people/murillo/)
+* [AI for health](/courses#ai-for-health) by [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
+* [Shape your own programming language](/courses#shape-your-own-programming-language) by [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
 
 The evaluation for each course is possible through a **final exam or project** as determined by the instructor.
 The daily schedule admits laboratory and/or working group activities to be organized in addition to the lectures.
 Consult the [schedule](schedule) page for more information about the daily schedule.
+
+## Who can attend?
+
+The school is open to PhD students from all European countries, and to students from other countries who are **enrolled in a PhD program in Computer Science**.
+
+## Where and when?
+
+This year the school will be held in **Bertinoro, Italy** from **March 13th to 17th, 2023**.
+The school will be held in the [University Residential Center](https://www.ceub.it/location/?lang=en) on the hilltop of Bertinoro.
+
+## How to register?
+
+Informations about the registration process is available in the [registration](registration) page.
