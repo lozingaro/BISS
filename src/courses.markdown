@@ -12,7 +12,7 @@ permalink: /courses/
 
 ### A gentle introduction to Quantum Computing from a Software Engineering perspective
 
-### Instructor: [Juan Manuel Murillo](/people/murillo/)
+### Instructor: Juan Manuel Murillo
 
 During the last decade there have been significant advances in the construction of quantum computers. It is reaching the point of having the first quantum processors (QPU) capable of addressing problems of a certain magnitude. The first computer with 400 qbits has recently been announced and the launch of a 1000 qbits computer has been announced for 2023. These advances have motivated that the discipline of Quantum Programming, which had remained latent for several decades, is now gaining relevance day by day.
 

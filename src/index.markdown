@@ -16,9 +16,9 @@ In addition to introducing students to timely research topics, the school is mea
 
 The three [courses](courses) that will be offered this year are:
 
-* [Hybrid Quantum Computing - A gentle introduction to Quantum Computing from a Software Engineering perspective](/courses#hybrid-quantum-computing) by [Juan Manuel Murillo](/people/murillo/)
-* [AI for health](/courses#ai-for-health) by [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
-* [Shape your own programming language](/courses#shape-your-own-programming-language) by [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
+* [Hybrid Quantum Computing - A gentle introduction to Quantum Computing from a Software Engineering perspective](courses#hybrid-quantum-computing) by Juan Manuel Murillo
+* [AI for health](courses#ai-for-health) by [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
+* [Shape your own programming language](courses#shape-your-own-programming-language) by [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
 
 The evaluation for each course is possible through a **final exam or project** as determined by the instructor.
 The daily schedule admits laboratory and/or working group activities to be organized in addition to the lectures.
