@@ -4,9 +4,14 @@ permalink: /courses/
 toc: true
 toc_label: "Navigate the courses"
 toc_icon: "cog"
+toc_sticky: true
 ---
 
-## Hybrid Quantum Computing - A gentle introduction to Quantum Computing from a Software Engineering perspective
+## Hybrid Quantum Computing
+
+```note
+A gentle introduction to Quantum Computing from a Software Engineering perspective.
+```
 
 **Instructor**: Juan Manuel Murillo
 {: .notice}
@@ -17,14 +22,14 @@ The success of Quantum Computing systems will depend not only on having powerful
 
 This course aims to help software engineers to address the aforementioned difficulties. The course introduces basic concepts of Quantum Computing and quickly goes on to show the structure of a quantum program and the main techniques and patterns used to develop them. Likewise, the integration of a quantum programs in classical software systems is also addressed. All the above is done from a practical perspective.
 
-## AI for health
+## AI for Health
 
 **Instructor(s)**: [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
 {: .notice}
 
 TBA
 
-## Shape your own programming language
+## Shape Your Own Programming Language
 
 **Instructor(s)**: [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
 {: .notice}
