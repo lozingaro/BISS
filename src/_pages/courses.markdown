@@ -1,16 +1,13 @@
 ---
-layout: page
-title: Courses
 permalink: /courses/
+toc: true
+toc_label: "Navigate the courses"
+toc_icon: "cog"
 ---
 
-* [Hybrid Quantum Computing](#hybrid-quantum-computing) by [Juan Manuel Murillo](/people/murillo/)
-* [AI for health](#ai-for-health) by [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
-* [Shape your own programming language](#shape-your-own-programming-language) by [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
+# Courses
 
-## Hybrid Quantum Computing
-
-### A gentle introduction to Quantum Computing from a Software Engineering perspective
+## Hybrid Quantum Computing - A gentle introduction to Quantum Computing from a Software Engineering perspective
 
 ### Instructor: Juan Manuel Murillo
 

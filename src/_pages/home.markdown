@@ -1,13 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: page
+title: "Bertinoro International Spring School 2023"
+permalink: /
+toc: true
+toc_label: "Page content"
+toc_icon: "cog"
+toc_sticky: true
+excerpt: "The registration for the 28th BISS edition is now open!"
+header:
+  overlay_image: /assets/images/front.png
+  overlay_filter: 0.25 # same as adding an opacity of 0.5 to a black background
+  image_description: "A view of Bertinoro from the hilltop"
+  tagline: "Bertinoro International Spring School"
+  actions:
+    - label: "More info"
+      url: "/registration/"
+share: true
 ---
 
-# {{ site.year }} Bertinoro International Spring School
-
-![A view from Bertinoro hilltop](assets/img/slider1.png)
+<!-- # Bertinoro International Spring School -->
 
 ## What is the Bertinoro International Spring School?
 
