@@ -11,10 +11,13 @@ permalink: /registration/
 It is possible to require one additional night for the students that want to leave on Saturday the 18th, [sending an Email to Monica](mailto:mmichelacci@ceub.it) from the local committee.
 In this case **the additional cost is 50 Euros**.
 
-Attendance is limited to 50 students and will be allocated on a first-come-first-served basis.{: .notice--info}
+**Watch out!** Attendance is limited to 50 students and will be allocated on a first-come-first-served basis.
+{: .notice--warning}
 
-NOTE: if you need an advance invoice or if the payment will be done from your University, please contact Monica mmichelacci@ceub.it and Gloria – gsintoni@ceub.it
+**Note!** If you need an advance invoice or if the payment will be done from your University, [please contact Monica](mailto:mmichelacci@ceub.it) or [Gloria](mailto:gsintoni@ceub.it) from the local committee.
+{: .notice--info}
 
-In order to register, all applicants must fill the form available at the following link:
+In order to register, all applicants must fill the form available clicking on the button below.
 
 [REGISTRATION FORM](https://www.ceub.it/events/event/biss-2023-bertinoro-international-spring-school-2023/){: .btn .btn--primary}
+{: .text-center}
