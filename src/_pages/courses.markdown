@@ -1,15 +1,15 @@
 ---
+title: "Courses"
 permalink: /courses/
 toc: true
 toc_label: "Navigate the courses"
 toc_icon: "cog"
 ---
 
-# Courses
-
 ## Hybrid Quantum Computing - A gentle introduction to Quantum Computing from a Software Engineering perspective
 
-### Instructor: Juan Manuel Murillo
+**Instructor**: Juan Manuel Murillo
+{: .notice}
 
 During the last decade there have been significant advances in the construction of quantum computers. It is reaching the point of having the first quantum processors (QPU) capable of addressing problems of a certain magnitude. The first computer with 400 qbits has recently been announced and the launch of a 1000 qbits computer has been announced for 2023. These advances have motivated that the discipline of Quantum Programming, which had remained latent for several decades, is now gaining relevance day by day.
 
@@ -19,12 +19,14 @@ This course aims to help software engineers to address the aforementioned diffic
 
 ## AI for health
 
-### Instructor(s): [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
+**Instructor(s)**: [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
+{: .notice}
 
 TBA
 
 ## Shape your own programming language
 
-### Instructor(s): [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
+**Instructor(s)**: [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
+{: .notice}
 
 TBA
