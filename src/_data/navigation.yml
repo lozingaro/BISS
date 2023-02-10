@@ -3,8 +3,8 @@ main:
   #   url: /
   - title: "Courses"
     url: /courses/
-  - title: "Schedule"
-    url: /schedule/
+  - title: "Program"
+    url: /program/
   - title: "Registration"
     url: /registration/
   - title: "Organization"
@@ -21,8 +21,8 @@ docs:
         url: courses/#ai-for-health
       - title: "Shape your own programming language"
         url: courses/#shape-your-own-programming-language
-  - title: "Schedule"
-    url: /schedule/
+  - title: "Program"
+    url: /program/
   - title: "Registration"
     url: /registration/
   - title: Organization

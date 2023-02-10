@@ -1,9 +1,9 @@
 ---
-permalink: /schedule/
+permalink: /program/
 classes: wide
 ---
 
-# Schedule
+# Program
 
 The school will be held in the [University Residential Center](https://www.ceub.it/?lang=en) of Bertinoro from March 13th to 17th, 2023.
 In the following table you can find the schedule of the school divided in time slots of 90 minutes each.
