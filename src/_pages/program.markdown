@@ -1,0 +1,20 @@
+---
+permalink: /program/
+classes: wide
+---
+
+# Program
+
+The school will be held in the [University Residential Center](https://www.ceub.it/?lang=en) of Bertinoro from March 13th to 17th, 2023.
+In the following table you can find the schedule of the school divided in time slots of 90 minutes each.
+
+| From | To | 13/03 | 14/03 | 15/03 | 16/03 | 17/03 |
+|       |       |                                          Mon                                          |                                          Tue                                          |                               Wed                               |                                          Thu                                          |                               Fri                               |
+| :---: | :---: | :-----------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------: | :-----------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
+| 9:00  | 10:30 |                       [AI for health](../courses#ai-for-health)                       |                        [AI for health](/courses#ai-for-health)                        |            [AI for health](../courses#ai-for-health)            | [Shape your own programming language](../courses#shape-your-own-programming-language) | [Hybrid Quantum Computing](../courses#hybrid-quantum-computing) |
+| 10:30 | 11:00 |                                         Break                                         |                                         Break                                         |                              Break                              |                                         Break                                         |                              Break                              |
+| 11:00 | 12:30 | [Shape your own programming language](../courses#shape-your-own-programming-language) | [Shape your own programming language](../courses#shape-your-own-programming-language) | [Hybrid Quantum Computing](../courses#hybrid-quantum-computing) |            [Hybrid Quantum Computing](../courses#hybrid-quantum-computing)            | [Hybrid Quantum Computing](../courses#hybrid-quantum-computing) |
+| 12:30 | 14:00 |                                         Lunch                                         |                                         Lunch                                         |                              Lunch                              |                                         Lunch                                         |                              Lunch                              |
+| 14:30 | 16:00 |                       [AI for health](../courses#ai-for-health)                       |                       [AI for health](../courses#ai-for-health)                       |            [AI for health](../courses#ai-for-health)            | [Shape your own programming language](../courses#shape-your-own-programming-language) |                                                                 |
+| 16:00 | 16:30 |                                         Break                                         |                                         Break                                         |                              Break                              |                                         Break                                         |                                                                 |
+| 16:30 | 18:00 | [Shape your own programming language](../courses#shape-your-own-programming-language) | [Shape your own programming language](../courses#shape-your-own-programming-language) | [Hybrid Quantum Computing](../courses#hybrid-quantum-computing) |            [Hybrid Quantum Computing](../courses#hybrid-quantum-computing)            |                                                                 |

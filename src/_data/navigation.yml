@@ -1,0 +1,35 @@
+main:
+  # - title: "Home"
+  #   url: /
+  - title: "Courses"
+    url: /courses/
+  - title: "Program"
+    url: /program/
+  - title: "Registration"
+    url: /registration/
+  - title: "Organization"
+    url: /organization/
+  - title: "Past editions"
+    url: /past-editions/
+
+docs:
+  - title: Courses
+    children:
+      - title: "Hybrid Quantum Computing"
+        url: courses/#hybrid-quantum-computing---a-gentle-introduction-to-quantum-computing-from-a-software-engineering-perspective
+      - title: "AI for health"
+        url: courses/#ai-for-health
+      - title: "Shape your own programming language"
+        url: courses/#shape-your-own-programming-language
+  - title: "Program"
+    url: /program/
+  - title: "Registration"
+    url: /registration/
+  - title: Organization
+    children:
+      - title: "Scientific committee"
+        url: organization/#scientific-committee
+      - title: "Local committee"
+        url: organization/#local-committee
+  - title: "Past editions"
+    url: /past-editions/
