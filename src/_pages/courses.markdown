@@ -34,4 +34,8 @@ TBA
 **Instructor(s)**: [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
 {: .notice}
 
-TBA
+Often the development of ad hoc programming languages that integrate features from various languages and paradigms represents the best choice to express a concise and elegant solution to complex problems.
+
+However, the task of creating a programming language can be daunting, discouraging the development of domain-specific or problem-oriented languages. To address this challenge and promote the development of clean and concise solutions, we created Neverlang. This language workbench offers a mechanism for constructing custom programming languages using features from existing languages, with the composability and flexibility of Neverlang enabling the development of new languages by simply combining features from pre-existing ones and reusing corresponding support code, such as parsers, code generators, and integrated development environments (IDEs) or language server protocols (LSPs).
+
+This course introduces the basic concepts of language development and provides an overview of Neverlang and its language product line approach. The course also includes a hands-on session where participants will work together to build a domain-specific language (DSL) and its full ecosystem.
