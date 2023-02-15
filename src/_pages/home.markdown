@@ -7,7 +7,7 @@ toc_icon: "cog"
 toc_sticky: true
 excerpt: "The registration for the 2023 28th Bertinoro International Spring School edition is now open!"
 header:
-  overlay_image: /assets/images/front-top.png
+  overlay_image: /assets/images/front-top.jpg
   overlay_filter: 0.25 # same as adding an opacity of 0.5 to a black background
   image_description: "A view of Bertinoro"
   caption: "Photo credit: Davide Giuliani"
