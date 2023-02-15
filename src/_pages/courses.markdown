@@ -27,7 +27,13 @@ This course aims to help software engineers to address the aforementioned diffic
 **Instructor(s)**: [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
 {: .notice}
 
-TBA
+n recent years, we have been witnessing a significant increase in the number of applications of Artificial Intelligence in healthcare. Such applications proved to be able to improve healthcare assistance, and pave the way to effective personalized medicine and treatment information.
+
+A number of success stories have been produced while tackling different problems and tasks. For instance, inductive data-driven techniques such as Deep Learning have been profitably used in the support to medical imaging diagnostic and computer-assisted surgery via detection, segmentation, and classification of specific pathologies or elements of medical interest; on the other hand, deductive knowledge-driven techniques have been employed for decision-support systems, master surgical scheduling, chemotherapy treatment scheduling, resource planning.
+
+In this short course, we provide an overview of the most used Deep Learning approaches for the analysis of pre- and intra-operative images and of some of the most effective scheduling/planning solutions based on Answer Set Programming. We will illustrate recent advancements, innovative solutions, and real-world applications proposed in the field, with a special focus on the automatic instance segmentation task.
+
+Students will also have the possibility to experiment and test learned knowledge in a real-world case study, via tech-demo sessions.
 
 ## Shape Your Own Programming Language
 
