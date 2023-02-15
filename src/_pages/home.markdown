@@ -5,11 +5,12 @@ toc: true
 toc_label: "Page content"
 toc_icon: "cog"
 toc_sticky: true
-excerpt: "The registration for the 28th BISS edition is now open!"
+excerpt: "The registration for the 2023 28th Bertinoro International Spring School edition is now open!"
 header:
-  overlay_image: /assets/images/front.png
+  overlay_image: /assets/images/front-top.png
   overlay_filter: 0.25 # same as adding an opacity of 0.5 to a black background
-  image_description: "A view of Bertinoro from the hilltop"
+  image_description: "A view of Bertinoro"
+  caption: "Photo credit: Davide Giuliani"
   tagline: "Bertinoro International Spring School"
   actions:
     - label: "More info"
