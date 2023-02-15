@@ -9,9 +9,7 @@ toc_sticky: true
 
 ## Hybrid Quantum Computing
 
-```note
-A gentle introduction to Quantum Computing from a Software Engineering perspective.
-```
+>A gentle introduction to Quantum Computing from a Software Engineering perspective.
 
 **Instructor**: Juan Manuel Murillo
 {: .notice}
@@ -27,7 +25,7 @@ This course aims to help software engineers to address the aforementioned diffic
 **Instructor(s)**: [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
 {: .notice}
 
-n recent years, we have been witnessing a significant increase in the number of applications of Artificial Intelligence in healthcare. Such applications proved to be able to improve healthcare assistance, and pave the way to effective personalized medicine and treatment information.
+In recent years, we have been witnessing a significant increase in the number of applications of Artificial Intelligence in healthcare. Such applications proved to be able to improve healthcare assistance, and pave the way to effective personalized medicine and treatment information.
 
 A number of success stories have been produced while tackling different problems and tasks. For instance, inductive data-driven techniques such as Deep Learning have been profitably used in the support to medical imaging diagnostic and computer-assisted surgery via detection, segmentation, and classification of specific pathologies or elements of medical interest; on the other hand, deductive knowledge-driven techniques have been employed for decision-support systems, master surgical scheduling, chemotherapy treatment scheduling, resource planning.
 
