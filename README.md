@@ -20,6 +20,8 @@ destination: "../public_html/2023"
 
 you will find the web pages in the folder `public_html/2023`.
 
+### Build a new BISS web page
+
 To build a **new** static web page, do the following:
 1. [Fork the repository](https://github.com/lozingaro/BISS/fork);
 2. Change `destination` in `_config.yml` with something like `../public_html/2024` (ensure the path exists);
