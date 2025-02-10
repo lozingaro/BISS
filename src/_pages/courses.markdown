@@ -7,39 +7,39 @@ toc_icon: "cog"
 toc_sticky: true
 ---
 
-## Hybrid Quantum Computing
+### Quantum Computing and Software Engineering
 
->A gentle introduction to Quantum Computing from a Software Engineering perspective.
-
-**Instructor**: Juan Manuel Murillo
+**Instructor**: [Shaukat Ali](https://www.simula.no/people/shaukat)
 {: .notice}
 
-During the last decade there have been significant advances in the construction of quantum computers. It is reaching the point of having the first quantum processors (QPU) capable of addressing problems of a certain magnitude. The first computer with 400 qbits has recently been announced and the launch of a 1000 qbits computer has been announced for 2023. These advances have motivated that the discipline of Quantum Programming, which had remained latent for several decades, is now gaining relevance day by day.
+Quantum software will enable fascinating future applications. However, creating dependable quantum software that executes on quantum computers and delivers these applications requires new software engineering methods, tools, and best practices.
 
-The success of Quantum Computing systems will depend not only on having powerful QPUs but also on the fact that software engineers are able to develop quantum software components and integrate them into classical systems. However, it is common for software engineers who try to approach the field of Quantum Computing to find great difficulty in doing so. Some of the reasons for this are as follows. On the one hand, the programming model based on quantum circuits that integrate quantum gates is of a very low abstraction level. This forces software developers to approach the theory of quantum information and the mathematical bases of quantum mechanics, which requires a great effort. On the other hand, Software Engineers usually try to approach quantum software development from the same perspective they are used to. However, the principles of Quantum Computing are very different from those of classical computing. Realising on that and understanding the differences is an additional gap that is difficult to bridge.
+To this end, a novel field of Quantum Software Engineering (QSE) is emerging, covering areas like quantum software modeling, coding, testing, debugging, and repair, which will be a key focus of this course, presenting different methods across these areas.
+Moreover, this course will focus on engineering dependable quantum and classical software in combination with two groundbreaking technologies: quantum computing and AI.
+To this end, this course will cover techniques, including applying classical AI methods to solve QSE problems.
+Moreover, it will cover techniques on using quantum AI techniques (e.g. quantum extreme learning machines and quantum annealing) to solve classical software engineering problems (e.g. testing).
 
-This course aims to help software engineers to address the aforementioned difficulties. The course introduces basic concepts of Quantum Computing and quickly goes on to show the structure of a quantum program and the main techniques and patterns used to develop them. Likewise, the integration of a quantum programs in classical software systems is also addressed. All the above is done from a practical perspective.
+### Building Language Models: A Practical Introduction
 
-## AI for Health
-
-**Instructor(s)**: [Gianluigi Greco](https://www.mat.unical.it/~ggreco/), [Francesco Calimeri](https://www.mat.unical.it/calimeri/), and Pierangela Bruno
+**Instructor(s)**: [João Monteiro](https://www.research.autodesk.com/people/joao-monteiro/)
 {: .notice}
 
-In recent years, we have been witnessing a significant increase in the number of applications of Artificial Intelligence in healthcare. Such applications proved to be able to improve healthcare assistance, and pave the way to effective personalized medicine and treatment information.
+This course provides a comprehensive introduction to modern language modeling, covering both theoretical foundations and practical implementation.
+Students will explore the complete lifecycle of large language models - from tokenization and architecture design to advanced fine-tuning techniques.
+The course begins with fundamental concepts in autoregressive modeling and transformer architectures, then delves into pre-training methodologies including BPE tokenization, masked language modeling, and decoder training.
+The latter half focuses on post-training techniques, where students will learn to create instruction-tuning datasets and implement both Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO).
+The series concludes with an examination of evaluation methodologies, including benchmark testing and human evaluation protocols.
 
-A number of success stories have been produced while tackling different problems and tasks. For instance, inductive data-driven techniques such as Deep Learning have been profitably used in the support to medical imaging diagnostic and computer-assisted surgery via detection, segmentation, and classification of specific pathologies or elements of medical interest; on the other hand, deductive knowledge-driven techniques have been employed for decision-support systems, master surgical scheduling, chemotherapy treatment scheduling, resource planning.
+Through hands-on exercises and practical implementations, students will gain direct experience with each stage of the language model development pipeline, preparing them to work with and contribute to the rapidly evolving field of language modeling.
 
-In this short course, we provide an overview of the most used Deep Learning approaches for the analysis of pre- and intra-operative images and of some of the most effective scheduling/planning solutions based on Answer Set Programming. We will illustrate recent advancements, innovative solutions, and real-world applications proposed in the field, with a special focus on the automatic instance segmentation task.
+### Service Engineering: From Design to Operation
 
-Students will also have the possibility to experiment and test learned knowledge in a real-world case study, via tech-demo sessions.
-
-## Shape Your Own Programming Language
-
-**Instructor(s)**: [Walter Cazzola](https://cazzola.di.unimi.it/), and Luca Favalli
+**Instructor(s)**: [Pablo Fernandez](https://www.us.es/trabaja-en-la-us/directorio/pablo-fernandez-montes)
 {: .notice}
 
-Often the development of ad hoc programming languages that integrate features from various languages and paradigms represents the best choice to express a concise and elegant solution to complex problems.
+This course provides an overview of service engineering, guiding participants through the entire service lifecycle, from design to operation. It begins by emphasizing the significance of effective service design in supporting research artifacts.
+Participants will gain insights into best practices for creating and implementing services that enhance accessibility and reusability.
+It will navigate critical aspects such as security, performance monitoring, and telemetry, underscoring their importance in ensuring reliable, high-quality service delivery.
+The course also explores pricing strategies and service level agreements (SLAs), highlighting how these components contribute to the long-term sustainability and scalability of services.
 
-However, the task of creating a programming language can be daunting, discouraging the development of domain-specific or problem-oriented languages. To address this challenge and promote the development of clean and concise solutions, we created Neverlang. This language workbench offers a mechanism for constructing custom programming languages using features from existing languages, with the composability and flexibility of Neverlang enabling the development of new languages by simply combining features from pre-existing ones and reusing corresponding support code, such as parsers, code generators, and integrated development environments (IDEs) or language server protocols (LSPs).
-
-This course introduces the basic concepts of language development and provides an overview of Neverlang and its language product line approach. The course also includes a hands-on session where participants will work together to build a domain-specific language (DSL) and its full ecosystem.
+Finally, participants will examine future trends and strategies, preparing them to address emerging challenges and develop innovative, efficient systems.

@@ -14,9 +14,10 @@ The editions are listed in chronological order, from the most recent to the olde
 The editions for 2020 and 2021 were cancelled due to the COVID-19 pandemic.
 
 ## [BISS 2024](https://cs.unibo.it/projects/BISS/2024)
--
--
--
+
+- Graph neural networks
+- Program analysis: from proving correctness to proving incorrectness
+- Large Language Models
 
 ## [BISS 2023](https://cs.unibo.it/projects/BISS/2023)
 

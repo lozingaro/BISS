@@ -22,7 +22,7 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:site_name" content="BISS 2025">
 <meta property="og:title" content="Courses">
-<meta property="og:url" content="https://cs.unibo.it/projects/BISS/2025/courses/">
+<meta property="og:url" content="http://localhost:4000/projects/BISS/2025/courses/">
 
 
   <meta property="og:description" content="Website for the BISS spring school of Computer Science.">
@@ -42,7 +42,7 @@
   
 
 
-<link rel="canonical" href="https://cs.unibo.it/projects/BISS/2025/courses/">
+<link rel="canonical" href="http://localhost:4000/projects/BISS/2025/courses/">
 
 
 
@@ -172,19 +172,9 @@
       
         <li>
           
-            <span class="nav__sub-title">Courses</span>
+            <a href="/projects/BISS/2025/courses/"><span class="nav__sub-title">Courses</span></a>
           
 
-          
-          <ul>
-            
-              <li><a href="/projects/BISS/2025/courses/#hybrid-quantum-computing---a-gentle-introduction-to-quantum-computing-from-a-software-engineering-perspective">Hybrid Quantum Computing</a></li>
-            
-              <li><a href="/projects/BISS/2025/courses/#ai-for-health">AI for health</a></li>
-            
-              <li><a href="/projects/BISS/2025/courses/#shape-your-own-programming-language">Shape your own programming language</a></li>
-            
-          </ul>
           
         </li>
       
@@ -206,17 +196,9 @@
       
         <li>
           
-            <span class="nav__sub-title">Organization</span>
+            <a href="/projects/BISS/2025/organization/"><span class="nav__sub-title">Organization</span></a>
           
 
-          
-          <ul>
-            
-              <li><a href="/projects/BISS/2025/organization/#scientific-committee">Scientific committee</a></li>
-            
-              <li><a href="/projects/BISS/2025/organization/#local-committee">Local committee</a></li>
-            
-          </ul>
           
         </li>
       
@@ -248,7 +230,7 @@
       
         <header>
           <h1 id="page-title" class="page__title" itemprop="headline">
-            <a href="https://cs.unibo.it/projects/BISS/2025/courses/" itemprop="url">Courses
+            <a href="http://localhost:4000/projects/BISS/2025/courses/" itemprop="url">Courses
 </a>
           </h1>
           
@@ -262,45 +244,43 @@
           <aside class="sidebar__right sticky">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-cog"></i> Navigate the courses</h4></header>
-              <ul class="toc__menu"><li><a href="#hybrid-quantum-computing">Hybrid Quantum Computing</a></li><li><a href="#ai-for-health">AI for Health</a></li><li><a href="#shape-your-own-programming-language">Shape Your Own Programming Language</a></li></ul>
+              <ul class="toc__menu"><li><a href="#quantum-computing-and-software-engineering">Quantum Computing and Software Engineering</a></li><li><a href="#building-language-models-a-practical-introduction">Building Language Models: A Practical Introduction</a></li><li><a href="#service-engineering-from-design-to-operation">Service Engineering: From Design to Operation</a></li></ul>
             </nav>
           </aside>
         
-        <h2 id="hybrid-quantum-computing">Hybrid Quantum Computing</h2>
+        <h3 id="quantum-computing-and-software-engineering">Quantum Computing and Software Engineering</h3>
 
-<blockquote>
-  <p>A gentle introduction to Quantum Computing from a Software Engineering perspective.</p>
-</blockquote>
+<p class="notice"><strong>Instructor</strong>: <a href="https://www.simula.no/people/shaukat">Shaukat Ali</a></p>
 
-<p class="notice"><strong>Instructor</strong>: Juan Manuel Murillo</p>
+<p>Quantum software will enable fascinating future applications. However, creating dependable quantum software that executes on quantum computers and delivers these applications requires new software engineering methods, tools, and best practices.</p>
 
-<p>During the last decade there have been significant advances in the construction of quantum computers. It is reaching the point of having the first quantum processors (QPU) capable of addressing problems of a certain magnitude. The first computer with 400 qbits has recently been announced and the launch of a 1000 qbits computer has been announced for 2023. These advances have motivated that the discipline of Quantum Programming, which had remained latent for several decades, is now gaining relevance day by day.</p>
+<p>To this end, a novel field of Quantum Software Engineering (QSE) is emerging, covering areas like quantum software modeling, coding, testing, debugging, and repair, which will be a key focus of this course, presenting different methods across these areas.
+Moreover, this course will focus on engineering dependable quantum and classical software in combination with two groundbreaking technologies: quantum computing and AI.
+To this end, this course will cover techniques, including applying classical AI methods to solve QSE problems.
+Moreover, it will cover techniques on using quantum AI techniques (e.g. quantum extreme learning machines and quantum annealing) to solve classical software engineering problems (e.g. testing).</p>
 
-<p>The success of Quantum Computing systems will depend not only on having powerful QPUs but also on the fact that software engineers are able to develop quantum software components and integrate them into classical systems. However, it is common for software engineers who try to approach the field of Quantum Computing to find great difficulty in doing so. Some of the reasons for this are as follows. On the one hand, the programming model based on quantum circuits that integrate quantum gates is of a very low abstraction level. This forces software developers to approach the theory of quantum information and the mathematical bases of quantum mechanics, which requires a great effort. On the other hand, Software Engineers usually try to approach quantum software development from the same perspective they are used to. However, the principles of Quantum Computing are very different from those of classical computing. Realising on that and understanding the differences is an additional gap that is difficult to bridge.</p>
+<h3 id="building-language-models-a-practical-introduction">Building Language Models: A Practical Introduction</h3>
 
-<p>This course aims to help software engineers to address the aforementioned difficulties. The course introduces basic concepts of Quantum Computing and quickly goes on to show the structure of a quantum program and the main techniques and patterns used to develop them. Likewise, the integration of a quantum programs in classical software systems is also addressed. All the above is done from a practical perspective.</p>
+<p class="notice"><strong>Instructor(s)</strong>: <a href="https://www.research.autodesk.com/people/joao-monteiro/">João Monteiro</a></p>
 
-<h2 id="ai-for-health">AI for Health</h2>
+<p>This course provides a comprehensive introduction to modern language modeling, covering both theoretical foundations and practical implementation.
+Students will explore the complete lifecycle of large language models - from tokenization and architecture design to advanced fine-tuning techniques.
+The course begins with fundamental concepts in autoregressive modeling and transformer architectures, then delves into pre-training methodologies including BPE tokenization, masked language modeling, and decoder training.
+The latter half focuses on post-training techniques, where students will learn to create instruction-tuning datasets and implement both Supervised Fine-Tuning (SFT) and Direct Preference Optimization (DPO).
+The series concludes with an examination of evaluation methodologies, including benchmark testing and human evaluation protocols.</p>
 
-<p class="notice"><strong>Instructor(s)</strong>: <a href="https://www.mat.unical.it/~ggreco/">Gianluigi Greco</a>, <a href="https://www.mat.unical.it/calimeri/">Francesco Calimeri</a>, and Pierangela Bruno</p>
+<p>Through hands-on exercises and practical implementations, students will gain direct experience with each stage of the language model development pipeline, preparing them to work with and contribute to the rapidly evolving field of language modeling.</p>
 
-<p>In recent years, we have been witnessing a significant increase in the number of applications of Artificial Intelligence in healthcare. Such applications proved to be able to improve healthcare assistance, and pave the way to effective personalized medicine and treatment information.</p>
+<h3 id="service-engineering-from-design-to-operation">Service Engineering: From Design to Operation</h3>
 
-<p>A number of success stories have been produced while tackling different problems and tasks. For instance, inductive data-driven techniques such as Deep Learning have been profitably used in the support to medical imaging diagnostic and computer-assisted surgery via detection, segmentation, and classification of specific pathologies or elements of medical interest; on the other hand, deductive knowledge-driven techniques have been employed for decision-support systems, master surgical scheduling, chemotherapy treatment scheduling, resource planning.</p>
+<p class="notice"><strong>Instructor(s)</strong>: <a href="https://www.us.es/trabaja-en-la-us/directorio/pablo-fernandez-montes">Pablo Fernandez</a></p>
 
-<p>In this short course, we provide an overview of the most used Deep Learning approaches for the analysis of pre- and intra-operative images and of some of the most effective scheduling/planning solutions based on Answer Set Programming. We will illustrate recent advancements, innovative solutions, and real-world applications proposed in the field, with a special focus on the automatic instance segmentation task.</p>
+<p>This course provides an overview of service engineering, guiding participants through the entire service lifecycle, from design to operation. It begins by emphasizing the significance of effective service design in supporting research artifacts.
+Participants will gain insights into best practices for creating and implementing services that enhance accessibility and reusability.
+It will navigate critical aspects such as security, performance monitoring, and telemetry, underscoring their importance in ensuring reliable, high-quality service delivery.
+The course also explores pricing strategies and service level agreements (SLAs), highlighting how these components contribute to the long-term sustainability and scalability of services.</p>
 
-<p>Students will also have the possibility to experiment and test learned knowledge in a real-world case study, via tech-demo sessions.</p>
-
-<h2 id="shape-your-own-programming-language">Shape Your Own Programming Language</h2>
-
-<p class="notice"><strong>Instructor(s)</strong>: <a href="https://cazzola.di.unimi.it/">Walter Cazzola</a>, and Luca Favalli</p>
-
-<p>Often the development of ad hoc programming languages that integrate features from various languages and paradigms represents the best choice to express a concise and elegant solution to complex problems.</p>
-
-<p>However, the task of creating a programming language can be daunting, discouraging the development of domain-specific or problem-oriented languages. To address this challenge and promote the development of clean and concise solutions, we created Neverlang. This language workbench offers a mechanism for constructing custom programming languages using features from existing languages, with the composability and flexibility of Neverlang enabling the development of new languages by simply combining features from pre-existing ones and reusing corresponding support code, such as parsers, code generators, and integrated development environments (IDEs) or language server protocols (LSPs).</p>
-
-<p>This course introduces the basic concepts of language development and provides an overview of Neverlang and its language product line approach. The course also includes a hands-on session where participants will work together to build a domain-specific language (DSL) and its full ecosystem.</p>
+<p>Finally, participants will examine future trends and strategies, preparing them to address emerging challenges and develop innovative, efficient systems.</p>
 
         
       </section>

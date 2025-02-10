@@ -18,7 +18,7 @@ In this case **the additional cost is 50 Euros**.
 **Note!** If you need an advance invoice or if the payment will be done from your University, [please contact Monica](mailto:mmichelacci@ceub.it) or [Gloria](mailto:gsintoni@ceub.it) from the local committee.
 {: .notice--info}
 
-**Registration is closed!**
+**The registration for the BISS will be published soon!**
 {: .notice--danger}
 
 <!-- In order to register, all applicants must fill the form clicking on the button below .
