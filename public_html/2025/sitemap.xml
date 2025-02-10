@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/projects/BISS/2025/courses/</loc>
+<loc>https://cs.unibo.it/projects/BISS/2025/courses/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/BISS/2025/</loc>
+<loc>https://cs.unibo.it/projects/BISS/2025/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/BISS/2025/organization/</loc>
+<loc>https://cs.unibo.it/projects/BISS/2025/organization/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/BISS/2025/past-editions/</loc>
+<loc>https://cs.unibo.it/projects/BISS/2025/past-editions/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/BISS/2025/program/</loc>
+<loc>https://cs.unibo.it/projects/BISS/2025/program/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/projects/BISS/2025/registration/</loc>
+<loc>https://cs.unibo.it/projects/BISS/2025/registration/</loc>
 </url>
 </urlset>

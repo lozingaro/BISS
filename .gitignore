@@ -93,3 +93,4 @@ $RECYCLE.BIN/
 
 .idea
 src/Gemfile.lock
+venv

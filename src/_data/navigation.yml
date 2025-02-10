@@ -14,12 +14,22 @@ main:
 
 docs:
   - title: Courses
-    url: /courses/
+    children:
+      - title: "Quantum Computing and Software Engineering"
+        url: courses/#quantum-computing-and-software-engineering
+      - title: "Building Language Models: A Practical Introduction"
+        url: courses/#building-language-models-a-practical-introduction
+      - title: "Service Engineering: From Design to Operation"
+        url: courses/#service-engineering-from-design-to-operation
   - title: "Program"
     url: /program/
   - title: "Registration"
     url: /registration/
   - title: Organization
-    url: /organization/
+    children:
+      - title: "Scientific committee"
+        url: organization/#scientific-committee
+      - title: "Local committee"
+        url: organization/#local-committee
   - title: "Past editions"
     url: /past-editions/

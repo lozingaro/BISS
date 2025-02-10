@@ -9,7 +9,7 @@ toc_sticky: true
 
 # Past editions
 
-In this page you can find the list of past editions of the Bertinoro International Spring School from 2011 to 2022 with the associated list of offered courses.
+In this page you can find the list of past editions of the Bertinoro International Spring School from 2011 to 2024 with the associated list of offered courses.
 The editions are listed in chronological order, from the most recent to the oldest.
 The editions for 2020 and 2021 were cancelled due to the COVID-19 pandemic.
 
@@ -20,10 +20,9 @@ The editions for 2020 and 2021 were cancelled due to the COVID-19 pandemic.
 - Large Language Models
 
 ## [BISS 2023](https://cs.unibo.it/projects/BISS/2023)
-
-- A gentle introduction to Quantum Computing from a Software Engineering perspective
-- AI for Health
-- Shape Your Own Programming Language
+- Hybrid Quantum Computing
+- AI for health
+- Shape your own programming language
 
 ## [BISS 2022](https://cs.unibo.it/projects/BISS/2022)
 

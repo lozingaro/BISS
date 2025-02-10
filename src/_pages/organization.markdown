@@ -15,6 +15,6 @@ classes: wide
 
 - [Monica Michelacci](mailto:mmichelacci@ceub.it) (Centro Residenziale Universitario
 di Bertinoro)
-- [Bianca Raimondi](https://www.unibo.it/sitoweb/bianca.raimondi3) (University of Bologna)
-- [Stefano P. Zingaro](https://www.unibo.it/sitoweb/stefanopio.zingaro) (University of Bologna)
+- [Bianca Raimondi](https://www.unibo.it/sitoweb/bianca.raimondi3/) (University of Bologna)
+- [Stefano P. Zingaro](https://www.unibo.it/sitoweb/stefanopio.zingaro/) (University of Bologna)
   

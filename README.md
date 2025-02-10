@@ -32,7 +32,7 @@ To build a **new** static web page, do the following:
 ### Local development
 
 1. Install Jekyll with `gem install bundler jekyll`
-2. Install bundle gems with `bundle install`
+2. Install bundle gems in `src` folder with `bundle install`
 3. Serve in local environment with `bundle exec jekyll serve`
 4. Build the website with `bundle exec jekyll build`
 5. [Open a `Pull Request`](https://github.com/lozingaro/BISS/compare) to update the repository.
