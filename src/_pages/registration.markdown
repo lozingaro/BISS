@@ -1,7 +1,7 @@
 ---
 permalink: /registration/
 title: "Registration"
-excerpt: "The registration for the 28th BISS edition is closed!"
+excerpt: "The registration for the BISS will be published soon!"
 classes: wide
 ---
 
@@ -23,5 +23,5 @@ In this case **the additional cost is 50 Euros**.
 
 <!-- In order to register, all applicants must fill the form clicking on the button below .
 
-[REGISTRATION FORM](https://www.ceub.it/events/event/biss-2023-bertinoro-international-spring-school-2023/){: .btn .btn--primary}
+[REGISTRATION FORM](https://www.ceub.it/events/event/biss-2025-bertinoro-international-spring-school-2025/){: .btn .btn--primary}
 {: .text-center} -->

@@ -13,6 +13,17 @@ In this page you can find the list of past editions of the Bertinoro Internation
 The editions are listed in chronological order, from the most recent to the oldest.
 The editions for 2020 and 2021 were cancelled due to the COVID-19 pandemic.
 
+## [BISS 2024](https://cs.unibo.it/projects/BISS/2024)
+-
+-
+-
+
+## [BISS 2023](https://cs.unibo.it/projects/BISS/2023)
+
+- A gentle introduction to Quantum Computing from a Software Engineering perspective
+- AI for Health
+- Shape Your Own Programming Language
+
 ## [BISS 2022](https://cs.unibo.it/projects/BISS/2022)
 
 - Towards Developmental Machine Learning
