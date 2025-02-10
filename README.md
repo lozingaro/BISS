@@ -27,3 +27,13 @@ To build a **new** static web page, do the following:
 2. Change `destination` in `_config.yml` with something like `../public_html/2024` (ensure the path exists);
 3. Edit source code in `src` according to your needs;
 4. [Open a `Pull Request`](https://github.com/lozingaro/BISS/compare) to update the repository.
+
+
+### Local development
+
+1. Install Jekyll with `gem install bundler jekyll`
+2. Install bundle gems with `bundle install`
+3. Serve in local environment with `bundle exec jekyll serve`
+4. Build the website with `bundle exec jekyll build`
+5. [Open a `Pull Request`](https://github.com/lozingaro/BISS/compare) to update the repository.
+

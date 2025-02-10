@@ -11,20 +11,20 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 theme                  : "minimal-mistakes-jekyll"
-destination            : "../public_html/2023"
+destination            : "../public_html/2025"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BISS 2023"
+title                    : "BISS 2025"
 title_separator          : "|"
-subtitle                 : 28th Bertinoro International Spring School # site tagline that appears below site title in masthead
-name                     : "De Zingaro"
+subtitle                 : 30th Bertinoro International Spring School # site tagline that appears below site title in masthead
+name                     : ""
 description              : "Website for the BISS spring school of Computer Science."
 url                      : "https://cs.unibo.it" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/projects/BISS/2023" # the subpath of your site, e.g. "/blog"
-repository               : "dezingaro/BISS" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+baseurl                  : "/projects/BISS/2025" # the subpath of your site, e.g. "/blog"
+repository               : "lozingaro/BISS" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title

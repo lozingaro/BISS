@@ -1,11 +1,11 @@
 ---
-title: "Bertinoro International Spring School 2023"
+title: "Bertinoro International Spring School"
 permalink: /
 toc: true
 toc_label: "Page content"
 toc_icon: "cog"
 toc_sticky: true
-excerpt: "The registration for the 2023 28th Bertinoro International Spring School edition is closed!"
+excerpt: "The registration for the 2025 30th Bertinoro International Spring School edition is closed!"
 header:
   overlay_image: /assets/images/front-top.jpg
   overlay_filter: 0.25 # same as adding an opacity of 0.5 to a black background
