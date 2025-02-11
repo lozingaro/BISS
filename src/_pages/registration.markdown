@@ -5,7 +5,7 @@ excerpt: "The registration for the 30th BISS edition"
 classes: wide
 ---
 
-**The registration fee for the School is 700.00 Euro** and includes all local expenses from the evening of 19th May to 23th May afternoon _including all meals and on-site lodging in double-occupancy rooms_.
+**The registration fee for the School is 700.00 Euro** and includes all local expenses from the evening of 18th May to 23th May afternoon _including all meals and on-site lodging in double-occupancy rooms_.
 
 **A reduced registration fee of 400.00 Euro is available** for local students which will not use the on-site lodging facilities (it includes local expenses for the lectures, coffee breaks and lunches).
 

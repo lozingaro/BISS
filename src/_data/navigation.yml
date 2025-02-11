@@ -13,23 +13,23 @@ main:
     url: /past-editions/
 
 docs:
-  - title: Courses
+  - title: "Courses"
     children:
       - title: "Quantum Computing and Software Engineering"
-        url: courses/#quantum-computing-and-software-engineering
+        url: /courses/#quantum-computing-and-software-engineering
       - title: "Building Language Models: A Practical Introduction"
-        url: courses/#building-language-models-a-practical-introduction
+        url: /courses/#building-language-models-a-practical-introduction
       - title: "Service Engineering: From Design to Operation"
-        url: courses/#service-engineering-from-design-to-operation
+        url: /courses/#service-engineering-from-design-to-operation
   - title: "Program"
     url: /program/
   - title: "Registration"
     url: /registration/
-  - title: Organization
+  - title: "Organization"
     children:
       - title: "Scientific committee"
-        url: organization/#scientific-committee
+        url: /organization/#scientific-committee
       - title: "Local committee"
-        url: organization/#local-committee
+        url: /organization/#local-committee
   - title: "Past editions"
     url: /past-editions/
