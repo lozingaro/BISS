@@ -5,7 +5,7 @@ toc: true
 toc_label: "Page content"
 toc_icon: "cog"
 toc_sticky: true
-excerpt: "TBA: The registration for the 2025 30th Bertinoro International Spring School edition."
+excerpt: "The registration for the 2026 31th Bertinoro International Spring School edition."
 header:
   overlay_image: /assets/images/front-top.jpg
   overlay_filter: 0.25 # same as adding an opacity of 0.5 to a black background
@@ -20,20 +20,20 @@ share: true
 
 ## What is the Bertinoro International Spring School?
 
-The [Italian Computer Science PhD granting institutions](http://www.disi.unige.it/dottorato/coordinamento/) under the auspices of [GRIN](http://www.grin-informatica.it/), organizes an annual school offering graduate-level courses aimed at PhD students in Computer Science.
+The Italian Computer Science PhD granting institutions under the auspices of [GRIN](http://www.grin-informatica.it/), organizes an annual school offering graduate-level courses aimed at PhD students in Computer Science.
 In addition to introducing students to timely research topics, the school is meant _to promote acquaintance and collaboration among young European researchers_.
 
 The three [courses](courses) that will be offered this year are:
 
-* [Quantum Computing and Software Engineering](courses#quantum-computing-and-software-engineering) by Shaukat Ali
-* [Building Language Models: A Practical Introduction](courses#building-language-models-a-practical-introduction) by João Monteiro
-* [Service Engineering: From Design to Operation](courses#service-engineering-from-design-to-operation) by Pablo Fernandez
+* [An Introduction to Reinforcement Learning: from Fundamentals to AI Agentic Systems](courses#an-introduction-to-reinforcement-learning-from-fundamentals-to-ai-agentic-systems) by Mirco Musolesi
+* [Artificial Social Intelligence](courses#artificial-social-intelligence) by Alessandro Vinciarelli
+* [Harnessing Parallel Computing Resources via Structured Programming Models](courses#harnessing-parallel-computing-resources-via-structured-programming-models) by Marco Danelutto
 
 **Note!** The evaluation for each course is possible through a **final exam or project** as determined by the instructor.
 {: .notice--info}
 
 The daily schedule admits laboratory and/or working group activities to be organized in addition to the lectures.
-Consult the [schedule](schedule) page for more information.
+Consult the [program](program) page for more information.
 
 ## Who can attend?
 
@@ -41,7 +41,7 @@ The school is open to PhD students from all European countries, and to students 
 
 ## Where and when?
 
-This year the school will be held in **Bertinoro, Italy** from **May 19th to 23th, 2025**.
+This year the school will be held in **Bertinoro, Italy** from **May 25th to 29th, 2026**.
 BISS events are held in the [University Residential Center](https://www.ceub.it/location/?lang=en) located in the small medieval hilltop town of Bertinoro. 
 This town is in Emilia Romagna about 50km east of Bologna at an elevation of 230m above sea level.
 

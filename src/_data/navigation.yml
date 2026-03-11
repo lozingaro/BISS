@@ -15,12 +15,12 @@ main:
 docs:
   - title: "Courses"
     children:
-      - title: "Quantum Computing and Software Engineering"
-        url: /courses/#quantum-computing-and-software-engineering
-      - title: "Building Language Models: A Practical Introduction"
-        url: /courses/#building-language-models-a-practical-introduction
-      - title: "Service Engineering: From Design to Operation"
-        url: /courses/#service-engineering-from-design-to-operation
+      - title: "An Introduction to Reinforcement Learning: from Fundamentals to AI Agentic Systems"
+        url: /courses/#an-introduction-to-reinforcement-learning-from-fundamentals-to-ai-agentic-systems
+      - title: "Artificial Social Intelligence"
+        url: /courses/#artificial-social-intelligence
+      - title: "Harnessing Parallel Computing Resources via Structured Programming Models"
+        url: /courses/#harnessing-parallel-computing-resources-via-structured-programming-models
   - title: "Program"
     url: /program/
   - title: "Registration"
