@@ -26,5 +26,5 @@ In order to register, all applicants must fill the form clicking on the button b
 <!-- **Registration TBA!**
 {: .notice--danger} -->
 
-[REGISTRATION FORM](https://www.ceub.it/prodotto/biss-bertinoro-international-spring-school-2026/){: .btn .btn--primary}
+[REGISTRATION FORM](https://www.ceub.it/eventi/biss-bertinoro-international-spring-school-2026/){: .btn .btn--primary}
 {: .text-center}
